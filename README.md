@@ -1,2 +1,2 @@
 # latent-ml
-supervised and unsupervised latent space models
+Supervised and Unsupervised machine learning models exploting latent feature dimensions
